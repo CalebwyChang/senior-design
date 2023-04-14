@@ -1,0 +1,7 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/SDFileSystem_HelloWorld]=1010583efa7837aadb20fafd3028f8ac75f6
+DEVICE_TYPE[/home/studio/workspace/SDFileSystem_HelloWorld]=connected
+DEVICE_ID[/home/studio/workspace/Omo_Sling]=1010583efa7837aadb20fafd3028f8ac75f6
+DEVICE_TYPE[/home/studio/workspace/Omo_Sling]=connected
+TARGET=LPC1768
+TARGET_CODE=1010
